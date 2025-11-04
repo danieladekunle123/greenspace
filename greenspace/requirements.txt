@@ -1,0 +1,8 @@
+# Django + REST API
+Django==5.1.1
+djangorestframework==3.15.2
+
+# PostgreSQL + PostGIS support
+psycopg2-binary==2.9.9
+
+
